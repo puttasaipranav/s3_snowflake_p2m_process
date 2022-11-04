@@ -1,0 +1,4 @@
+create_refresh_table = """
+                        alter external table RAW_TEST_DB.KWA_TEXT_P2M.Power2Motivate_Loyalty_data refresh;
+                    """                                                
+                                                                                            
