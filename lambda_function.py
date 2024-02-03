@@ -3,4 +3,5 @@ import json
 
 def lambda_handler(event, context): 
     print('hi')
+    print('hello')
     snowflake = snowflake_cursor()
